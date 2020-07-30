@@ -1,0 +1,21 @@
+{
+	"name": "snake",
+	"version": "1.0.0",
+	"description": "Simple Snake Game in JS",
+	"main": "app.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node app"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/000ankits/snake.git"
+	},
+	"keywords": [ "snake", "game" ],
+	"author": "Ankit Sircar",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/000ankits/snake/issues"
+	},
+	"homepage": "https://github.com/000ankits/snake#readme"
+}
